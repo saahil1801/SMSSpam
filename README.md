@@ -15,7 +15,7 @@ Text Preprocessing: Text data undergoes preprocessing using NLTK for tasks like 
 
 TF-IDF Vectorization: The text messages are converted into numerical vectors using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization, which is crucial for training the machine learning model.
 
-Machine Learning Model: Machine learning models (e.g., Naive Bayes, Support Vector Machine, or others) is trained and testes on a dataset from the UCI Machine Learning Repository to classify SMS messages.
+Machine Learning Model: Machine learning models (e.g., Naive Bayes, Support Vector Machine, or others) are trained and tested on a dataset from the UCI Machine Learning Repository to classify SMS messages.
 
 ![Screenshot 2023-10-04 124117](https://github.com/saahil1801/SMSSpam/assets/84408557/20f55527-3191-4d60-93c4-87cc7dd91728)
 
