@@ -3,7 +3,7 @@
 This project is a SMS spam detection system that leverages Natural Language Processing (NLP) and Machine Learning to identify and classify text messages as either spam or ham (non-spam). The project utilizes popular libraries such as NLTK, Streamlit, and TF-IDF, and it incorporates a machine learning model trained on a dataset from the UCI Machine Learning Repository.
 
 Overview
-In today's digital age, unwanted SMS spam is a common nuisance. This project aims to tackle this issue by providing an efficient tool to automatically detect and filter out spam messages. The system is designed to help users keep their SMS inboxes clean and free from unwanted content.
+In today's digital age, unwanted SMS spam is a common nuisance. This project aims to tackle this issue by providing an efficient tool to automatically detect and filter out spam messages. 
 
 About 
 
